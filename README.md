@@ -1,3 +1,5 @@
+Doesn't run but is a good example: https://www.smashingmagazine.com/2020/10/graphql-server-next-javascript-api-routes/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
